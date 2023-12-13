@@ -5,5 +5,8 @@ int a,b,c;
   c=a+b;
   printf("%d',c);
 add()
+    {
+    a=b+c;
+}
 mul()
 }
